@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <TextView android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="click on the following button to diagnoise after u select" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <Button android:id="@id/button1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="96dp" android:layout_marginTop="19dp" android:text="Diagnose" android:layout_below="@id/textView1" android:layout_alignParentLeft="true" />
+    <ListView android:id="@id/listView1" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="30dp" android:layout_below="@id/button1" android:layout_centerHorizontal="true" />
+</RelativeLayout>

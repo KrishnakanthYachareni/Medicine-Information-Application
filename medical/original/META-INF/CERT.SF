@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: FW4K1yIJ2UOurkRbhvK2mbmaVLo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9PEraaMVFRMeMWj7RlCjRrAbfr4=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: VJnq0hyIwA+lPYy+ZyAvMwFQ+E8=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: 3BuibRsHskLgrARecz3XPW26o5c=
+
+Name: res/layout/symptoms.xml
+SHA1-Digest: R087sMQmL9us7at/17OrJqyjZBU=
+
+Name: res/drawable-hdpi-v4/image1.jpg
+SHA1-Digest: ulxcHpokL9rAn1XmxwdVlh2qXEw=
+
+Name: res/layout/main.xml
+SHA1-Digest: DFNDibHdarm1QarSeImzjS7bluM=
+
+Name: resources.arsc
+SHA1-Digest: uS05r+lJ/omz+8a0o7hckiWILd8=
+
+Name: assets/medicalinfo.sqlite
+SHA1-Digest: y0peJdVtTBoSPxjM1JHunrZ2pkw=
+
+Name: res/layout/information.xml
+SHA1-Digest: q++44FzEisUwMk8vigLG+nhEjlY=
+
+Name: classes.dex
+SHA1-Digest: P2HZkL8SI6E6Nch6E73ho8zK+80=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: ZFmPyhasPoY4qQiJwMGZmZudZoY=
+
+Name: res/layout/tablayout.xml
+SHA1-Digest: EeR7Q6NkJIF6+1c8XUzbzMUvcLw=
+
+Name: res/drawable-hdpi-v4/splsh.jpg
+SHA1-Digest: vUM/eKemNDUMwO6pBD4iV5aQy+4=
+

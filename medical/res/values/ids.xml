@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ScrollView01">false</item>
+    <item type="id" name="AbsoluteLayout01">false</item>
+    <item type="id" name="TextView01">false</item>
+    <item type="id" name="TextView02">false</item>
+    <item type="id" name="relativeLayout1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="listView1">false</item>
+</resources>

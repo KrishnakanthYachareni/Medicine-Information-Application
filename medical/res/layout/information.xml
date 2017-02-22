@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/ScrollView01" android:layout_width="-2" android:layout_height="-2" android:layout_x="83dp" android:layout_y="12dp">
+    <AbsoluteLayout android:id="@id/AbsoluteLayout01" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textColor="#fffff000" android:id="@id/TextView01" android:layout_width="-2" android:layout_height="-2" android:text="" android:shadowColor="#ffff0000" android:shadowDx="28.2" android:layout_x="100dp" android:layout_y="15dp" />
+        <TextView android:id="@id/TextView02" android:layout_width="-2" android:layout_height="-2" android:text="" android:layout_x="12dp" android:layout_y="50dp" android:lineSpacingMultiplier="2.0" />
+    </AbsoluteLayout>
+</ScrollView>

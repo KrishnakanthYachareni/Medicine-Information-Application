@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/symptoms.xml
+SHA1-Digest: lM92aBsMyYMFO/74mwFSTUdBG/c=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5PEAoZTmU7CQTcu+/c410vu6fpI=
+
+Name: res/drawable-hdpi-v4/image1.jpg
+SHA1-Digest: kf9aHKVXQp6MEwnjQtMX82PGDnE=
+
+Name: resources.arsc
+SHA1-Digest: 8vzTAvvF9tsv9hWM3zl6VAIczS0=
+
+Name: res/layout/main.xml
+SHA1-Digest: eViK8bJr9LyWG0GUAziiCtQra1Q=
+
+Name: res/layout/information.xml
+SHA1-Digest: /g5VavIKKrsXkjiz5gx6Xx3kM18=
+
+Name: assets/medicalinfo.sqlite
+SHA1-Digest: vLlQk+zV7WFj3CrWAwq7triskRc=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: classes.dex
+SHA1-Digest: paEJzVLMO7KaqtvDgCmDCDh2dZY=
+
+Name: res/layout/tablayout.xml
+SHA1-Digest: YzX9WkU2E/l17D6yLT69etqhvVk=
+
+Name: res/drawable-hdpi-v4/splsh.jpg
+SHA1-Digest: 3nJiMr0itP6z5PiNzFeFe40rKaI=
+
